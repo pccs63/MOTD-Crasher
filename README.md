@@ -5,8 +5,11 @@ A Minecraft Crasher that sends motds to a server.
 HOW TO INSTALL:
 
 git clone https://github.com/pccs63/MOTD-Crasher.git
+
 cd MOTD-Crasher
+
 pip3 install pysocks
+
 
 HOW TO RUN:
 
